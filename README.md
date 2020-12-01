@@ -17,9 +17,9 @@
 
 ## فهرست درس ها  
 
-[1322110_01	طراحی واسط کاربری](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)
+[1322110_01	طراحی واسط کاربری](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/UserInterfaceDesgin)
 <br>
-[1322100_01	برنامه نویسی وب](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/WebProgramming/README.md#TOC)
+[1322100_01	برنامه نویسی وب](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/WebProgramming)
 <br>
 [1322010_01	روش پژوهش و ارائه](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)
 
