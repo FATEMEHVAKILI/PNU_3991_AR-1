@@ -42,7 +42,7 @@
 
 </div>
 
-<div dir="ltr">
+<div dir="ltr" align="center">
 
 <table style="width:100%">
   <tr>
