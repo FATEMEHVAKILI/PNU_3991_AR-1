@@ -8,7 +8,7 @@
 - [PNU_3991_AR](https://github.com/JAbozarOid/PNU_3991_AR)
 - [Resume](https://jabozaroid.github.io/) 
 - [SOP](https://jabozaroid.github.io/sop)
-- [Certificates](https://github.com/JAbozarOid/PNU_3991_AR/blob/main/Certificates/certificates.pdf)
+- [Certificates](/Certificates/certificates.pdf)
 - [GitHub](https://github.com/JAbozarOid)
 
 # Winter Semester Courses 1399/2020
