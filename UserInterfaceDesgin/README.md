@@ -34,7 +34,7 @@
         + طراحی دستی و اولیه صفحه اصلی وب سایت و نمایش جزییات هر محصول 
         + دیزاین صفحه اصلی و جزییات هر محصول
         + پیاده سازی صفحه اصلی و جزییات هر محصول با جاوا اسکریپت طبق دیزاین طراحی شده
-  4. تجربه کاربری
+    4. تجربه کاربری
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
         - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
     5. طرح دستی
