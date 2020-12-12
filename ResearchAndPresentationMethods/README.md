@@ -29,7 +29,8 @@
         - هر گروه، روش پژوهش یک پایان نامه ارشد یا دکترا در رشته مهندسی نرم افزار از دانشگاههای معتبر را عیناً(بدون ترجمه یا تحلیل) معرفی نماید
             - [دسترسی به متن بیش از 2 میلیون پایان نامه از 80 دانشگاه جهان](http://oatd.org/)
             - [Research Methods](https://methods.sagepub.com/methods-map) 
-        
+        ```diff
+        + https://courses.helsinki.fi/en/csm14102
     3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی** 
         - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
             - **از صفحه :** [(شماره ردیف دانشجو - 1) * 3] + 1
