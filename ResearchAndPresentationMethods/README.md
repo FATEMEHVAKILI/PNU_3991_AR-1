@@ -24,7 +24,7 @@
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
         ```diff
-        - [University of London - Understanding Research Methods](https://www.coursera.org/learn/research-methods)
+        + [University of London - Understanding Research Methods](https://www.coursera.org/learn/research-methods)
     2. **جستجوی منابع دیگر** 
         - هر گروه، روش پژوهش یک پایان نامه ارشد یا دکترا در رشته مهندسی نرم افزار از دانشگاههای معتبر را عیناً(بدون ترجمه یا تحلیل) معرفی نماید
             - [دسترسی به متن بیش از 2 میلیون پایان نامه از 80 دانشگاه جهان](http://oatd.org/)
