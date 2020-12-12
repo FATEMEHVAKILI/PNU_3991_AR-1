@@ -37,11 +37,17 @@
     4. تجربه کاربری
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
         - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
+        ```diff
+        + دیزایین نهایی صفحه اصلی وب سایت و نمایش جزییات هر محصول و نحوه دسترسی کاربر به هر کدام از بخش ها
     5. طرح دستی
     6. وایرفریم
          - [وایرفریم چیست؟ — به زبان ساده](https://blog.faradars.org/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-      %D8%B3%D8%A7%D8%AF%D9%87/)
+        ```diff
+        + نمایش طراحی دستی و وایرفریم صفحه اصلی وب سایت و جزییات هر محصول
     7. نمونه سازی
     8. پیاده سازی
+        ```diff
+        + لینک پیاده سازی وب سایت خرید آنلاین کالا مشابه سایت آمازون
     9. ارزیابی
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
