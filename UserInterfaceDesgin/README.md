@@ -57,11 +57,18 @@
             - [طرح دستی صفحه اصلی وب سایت](https://jabozaroid.github.io/manualdesign/home.pdf)
         - [صفحه جزییات محصول]   
             - [طرح دستی صفحه جزییات هر محصول](https://jabozaroid.github.io/manualdesign/details.pdf)
-        - [صفحه عضویت وبسایت]   
+        - [صفحه ورود و عضویت وبسایت]   
             - [طرح دستی صفحه عضویت در وبسایت](https://jabozaroid.github.io/manualdesign/signin.pdf)
     6. وایرفریم
          - [وایرفریم چیست؟ — به زبان ساده](https://blog.faradars.org/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-      %D8%B3%D8%A7%D8%AF%D9%87/)
     7. نمونه سازی
+        - [صفحه اصلی]
+            - [دیزاین صفحه اصلی وب سایت](https://jabozaroid.github.io/graphicdesign/home.pdf)
+        - [صفحه جزییات محصول]   
+            - [دیزاین صفحه جزییات هر محصول](https://jabozaroid.github.io/graphicdesign/details.pdf)
+        - [صفحه ورود و عضویت وبسایت]   
+            - [دیزاین صفحه ورود وبسایت](https://jabozaroid.github.io/graphicdesign/signin.pdf)
+            - [دیزاین صفحه عضویت وبسایت](https://jabozaroid.github.io/graphicdesign/register.pdf)
     8. پیاده سازی
         ```diff
         + لینک پیاده سازی وب سایت خرید آنلاین کالا مشابه سایت آمازون
