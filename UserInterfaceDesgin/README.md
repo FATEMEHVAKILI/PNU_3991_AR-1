@@ -42,6 +42,10 @@
     5. طرح دستی
         - [صفحه اصلی]
             - [طرح دستی صفحه اصلی وب سایت](https://jabozaroid.github.io/manualdesign/home.pdf)
+        - [صفحه جزییات محصول]   
+            - [طرح دستی صفحه جزییات هر محصول](https://jabozaroid.github.io/manualdesign/details.pdf)
+        - [صفحه عضویت وبسایت]   
+            - [طرح دستی صفحه عضویت در وبسایت](https://jabozaroid.github.io/manualdesign/signin.pdf)
     6. وایرفریم
          - [وایرفریم چیست؟ — به زبان ساده](https://blog.faradars.org/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-      %D8%B3%D8%A7%D8%AF%D9%87/)
         ```diff
