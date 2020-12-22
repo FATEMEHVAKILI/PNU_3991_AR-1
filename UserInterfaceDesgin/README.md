@@ -70,8 +70,8 @@
             - [دیزاین صفحه ورود وبسایت](https://jabozaroid.github.io/graphicdesign/signin.pdf)
             - [دیزاین صفحه عضویت وبسایت](https://jabozaroid.github.io/graphicdesign/register.pdf)
     8. پیاده سازی
-        ```diff
-        + لینک پیاده سازی وب سایت خرید آنلاین کالا مشابه سایت آمازون
+        - [فروشگاه آنلاین فروش لباس با جاوااسکریپت]
+            - [لینک پروژه](https://github.com/JAbozarOid/jsamazona_full_ecommerce) 
     9. ارزیابی
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
