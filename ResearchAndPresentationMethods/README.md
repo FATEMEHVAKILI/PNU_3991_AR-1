@@ -41,6 +41,8 @@
               + تا صفحه 69
         - [فایل پی دی اف]
             - [فایل پی دی اف - ازصفحه 67 تا 69](https://jabozaroid.github.io/researchandpresentation/67-69.pdf)
+        - [فایل ورد]   
+            - [فایل ورد - ازصفحه 67 تا 69](https://jabozaroid.github.io/researchandpresentation/67-69.docx)
         - [فایل لاتکس]  
             - [فایل لاتکس - ازصفحه 67 تا 69](https://jabozaroid.github.io/researchandpresentation/67-69.tex)
     4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
