@@ -18,9 +18,9 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/JAbozarOid/PNU_3991_AR/blob/main/General/AR_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس طراحی واسط کاربری](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس برنامه نویسی وب](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس طراحی واسط کاربری](https://github.com/JAbozarOid/PNU_3991_AR/blob/main/UserInterfaceDesgin/AR_UserInterfaceDesgin_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس روش پژوهش و ارائه]()
+- [خلاصه ارزیابی درس برنامه نویسی وب]()
 
 
 ------------------
