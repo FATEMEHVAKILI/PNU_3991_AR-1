@@ -11,10 +11,19 @@
 - [Certificates](https://jabozaroid.github.io/certificates/certificates.pdf)
 - [GitHub](https://github.com/JAbozarOid)
 
-# Winter Semester Courses 1399/2020
-
 ---------
+> ارزیابی ها
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
 
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس_طراحی واسط کاربری](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_برنامه نویسی وب](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
+
+
+------------------
 ## فهرست درس ها  
 
 [1322110_01	طراحی واسط کاربری](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/UserInterfaceDesgin)
