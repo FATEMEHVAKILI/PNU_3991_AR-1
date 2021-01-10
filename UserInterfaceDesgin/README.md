@@ -68,7 +68,7 @@
             - [HomeScreen Wireframe-link](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
             - [HomeScreen Wireframe-pdf](https://jabozaroid.github.io/wireframe/HomeScreen_wireframe.pdf)
          - [وایرفریم صفحه جزییات هر محصول]  
-            - [ِDetailsOfProduct Wireframe-pdf](https://jabozaroid.github.io/wireframe/DetailsOfProduct_wireframe.pdf)
+            - [DetailsOfProduct Wireframe-pdf](https://jabozaroid.github.io/wireframe/DetailsOfProduct_wireframe.pdf)
     7. نمونه سازی
         - [صفحه اصلی]
             - [دیزاین صفحه اصلی وب سایت](https://jabozaroid.github.io/graphicdesign/home.pdf)
